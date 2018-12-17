@@ -41,9 +41,10 @@
   .navbar-brand{
     top: 0px;
   }
-  background: #fff!important;
+  background: #000!important;
   .navbar-nav .nav-link{
-    color: #212121 !important;
+    color: #fff !important;
+    text-transform: uppercase;
     &:hover{
       color: $preset!important;
     }
