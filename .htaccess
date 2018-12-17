@@ -1,0 +1,4 @@
+AuthName "website"
+AuthType Basic
+AuthUserFile /var/www/www.alles-ausser-scrum.de/.htpasswd
+require valid-user
