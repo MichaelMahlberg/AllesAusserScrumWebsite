@@ -22,7 +22,7 @@
 				font-size: 13px;
 				font-weight: 400;
 				&:hover{
-					color: $preset;
+					color: $preset !important;
 				}
 			}
 		}
@@ -46,7 +46,7 @@
 			    -webkit-transition: all 0.3s ease-in-out 0s;
 			    -o-transition: all 0.3s ease-in-out 0s;
 				&:hover{
-					color: #fff;
+					color: #fff !important;
 				}
 			}
 			.facebook:hover{
