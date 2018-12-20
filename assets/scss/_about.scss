@@ -14,7 +14,7 @@
 			a{
 				color: #212121;
 				&:hover{
-					color: $preset;
+					color: darken($preset,30%);
 				}
 			}
 		}
