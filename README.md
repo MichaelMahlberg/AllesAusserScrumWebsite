@@ -21,5 +21,13 @@ sass assets/scss/main.scss assets/css/main.css
 ```
 npm install -g sass
 cd AllesAusserScrumWebsite
+
+# to compile
 sass assets/scss/main.scss assets/css/main.css
+
+
+# to watch
+sass --watch  assets/scss/main.scss assets/css/main.css
 ```
+
+
