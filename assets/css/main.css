@@ -20,9 +20,24 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-size: 36px;
   font-weight: 700;
-  font-family: "Josefin Sans", sans-serif;
+  font-family: "Lato", sans-serif;
+}
+
+h1 {
+  font-size: 36pt;
+}
+
+h2 {
+  font-size: 24pt;
+}
+
+h3 {
+  font-size: 21pt;
+}
+
+h4 {
+  font-size: 18pt;
 }
 
 a {
@@ -1178,6 +1193,24 @@ a.back-to-top:hover, a.back-to-top:focus {
 .mission-item:hover .icon i {
   background: transparent;
   color: #16bf6d;
+}
+
+ul.mission-list-circle {
+  list-style-type: disc !important;
+  list-style-position: inside;
+}
+ul.mission-list-circle li {
+  list-style-type: disc !important;
+  list-style-position: inside;
+}
+
+ul, ol {
+  list-style: outside none none;
+  margin: 0;
+  padding: 0;
+}
+ul li, ol li {
+  list-style: none;
 }
 
 /* imprint Item */
