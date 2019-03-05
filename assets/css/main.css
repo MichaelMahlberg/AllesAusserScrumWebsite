@@ -1022,7 +1022,6 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 .schedule .card-header {
   border: none;
-  cursor: pointer;
   background: #fff;
   border-bottom: 1px solid #ddd;
 }
@@ -1091,7 +1090,6 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 .accordion .card-header {
   background: transparent;
-  cursor: pointer;
   padding: 0;
 }
 .accordion .card-header i {
@@ -1498,7 +1496,6 @@ ul li, ol li {
 }
 .schedule .card-header {
   border: none;
-  cursor: pointer;
   background: #fff;
   border-bottom: 1px solid #ddd;
 }

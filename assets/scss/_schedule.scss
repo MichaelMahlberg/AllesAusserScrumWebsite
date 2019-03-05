@@ -69,7 +69,6 @@
 	}
 	.card-header{
 		border: none;
-		cursor: pointer;
 		background: #fff;
 		border-bottom: 1px solid #ddd;
 		.images-box{
@@ -140,7 +139,6 @@
     }
 	.card-header{
 		background: transparent;
-		cursor: pointer;
 		padding: 0;
 		i{
 			color: $preset;
